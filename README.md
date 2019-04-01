@@ -14,7 +14,7 @@ Crie um API RESTful para que seja possível:
 - Faça todas as operações listas anteriormente
 - Utilize Node.js
 - Não precisa fazer hospedagem da sua API
-- Crie um readme.md com as seguintes informações
+- Crie um **readme.md** com as seguintes informações
   - Endpoints disponibilizados pela API ex: `api/createrole` com os dados que devem ser enviados.
   - Instruções para rodar na máquina
   - Localização dos arquivos com configuração de credenciais para o banco de dados ou chave de variável ambiente.
