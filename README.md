@@ -1,5 +1,7 @@
-Endpoints:
-=====
+# API para desafio-back
+
+
+## Endpoints:
 
 ### Para criar um role:
 * URL: api/roles/create
@@ -42,8 +44,7 @@ Endpoints:
 404- Role não encontrado //
 500- Problema interno no servidor
 
-Instruções:
-====
+## Instruções:
 |Requisição|Pedido|
 |---------|---------|
 |Nome       |texto|
@@ -57,19 +58,18 @@ Instruções:
 
 
 
-Localização dos arquivos com configuração de credenciais para o banco de dados ou chave de variável ambiente:
-====
+## Localização dos arquivos com configuração de credenciais para o banco de dados ou chave de variável ambiente:
 config/database.config.js
 
-Todas as funcionalidades da API:
-=====
+## Todas as funcionalidades da API:
+
 * Criar um role.
 * Editar um role.
 * Visualizar todos os roles ou um especifico.
 * Deletar um role.
 
-Imagens do funcionamento:
-====
+## Imagens do funcionamento:
+
 * criando um role:
 ![](imgs/criar.PNG)
 * editando um role:
