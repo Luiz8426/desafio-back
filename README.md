@@ -47,14 +47,14 @@
 ## Instruções:
 |Requisição|Tipo|
 |---------|---------|
-|Nome       |texto|
-|dia        |texto|
-|hora       |texto|
-|local      |texto|
-|valor      |numero|
-|acompanhado|texto|
-|qtdePessoas|numero|
-|avaliacao  |numero|
+|Nome       |String|
+|dia        |String|
+|hora       |String|
+|local      |String|
+|valor      |Number|
+|acompanhado|String|
+|qtdePessoas|Number|
+|avaliacao  |Number|
 
 
 
