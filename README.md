@@ -45,7 +45,7 @@
 500- Problema interno no servidor
 
 ## Instruções:
-|Requisição|Pedido|
+|Requisição|Tipo|
 |---------|---------|
 |Nome       |texto|
 |dia        |texto|
